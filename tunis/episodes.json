@@ -1,13 +1,5 @@
 [
  {
-  "file": "Tunis_Desk_2026-10-17.mp3",
-  "title": "Tunis Desk \u2013 Saturday 17 October 2026",
-  "desc": "Running order: Civil society coalition including the UGTT marches in Tunis; Two thousand and twenty-seven budget, oil prices and a possible supplementary budget; New nine-member ISIE to be appointed by presidential decree; Appeals court upholds four-year sentence against Khayam Turki; Kais Saied in Bizerte for Evacuation Day; Briefly: hadhaer workers, sugar and flour supply, oil sourcing, regional items; And finally: airport taxi fares.",
-  "date": "Sat, 17 Oct 2026 16:50:55 +0000",
-  "bytes": 9438381,
-  "dur": 786
- },
- {
   "file": "Tunis_Desk_2026-10-18.mp3",
   "title": "Tunis Desk \u2013 Sunday 18 October 2026",
   "desc": "Budget 2027: state spending, Central Bank financing and a first sukuk; Unions, lawyers and rights groups march in Tunis; Oil prices and the call for a supplementary budget; Kais Saied in Bizerte for Evacuation Day; Sugar and flour shortages; Briefly: Sousse arrests, procurement rules, plainclothes traffic police; And finally: airport taxi fares.",
@@ -238,5 +230,13 @@
   "date": "Sun, 15 Nov 2026 02:13:44 +0000",
   "bytes": 9561357,
   "dur": 796
+ },
+ {
+  "file": "Tunis_Desk_2026-11-16.mp3",
+  "title": "Tunis Desk \u2013 Monday 16 November 2026",
+  "desc": "2027 budget: finance minister's call to mobilise savings draws economists' fire as deputies grumble and nine organisations call a 17 December march; unemployment back at 15 per cent, minister heckled by jobless graduates, Law 18 protest; appeal court upholds 25-year sentences for Noureddine Bhiri, Seifeddine Arfaoui kept in detention, jailed journalist Zied El-Heni honoured by SNJT; UGTT fuel-transport strike called for 23-25 November; Briefly: ISIE recall election in Tozeur, Interior Ministry budget and municipal council rules, free healthcare cards suspended, Tunisians reported killed fighting for Russia; And finally: Fatma Mseddi and the French-language row.",
+  "date": "Mon, 16 Nov 2026 02:11:53 +0000",
+  "bytes": 9845901,
+  "dur": 820
  }
 ]
