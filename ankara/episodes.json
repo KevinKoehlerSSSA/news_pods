@@ -1,13 +1,5 @@
 [
  {
-  "file": "Ankara_Desk_2026-10-18.mp3",
-  "title": "Ankara Desk \u2013 Sunday 18 October 2026",
-  "desc": "Running order: Imamoglu finishes his defence in the Istanbul municipality trial and seven are released; trustees take over Halk TV; the investment fund crisis, journalist detentions and Ozel's allegations; the C-H-P expels forty-eight members as the YENI Party grows; PKK camp withdrawals and Kurdish media blocks; briefly, the thirteenth judicial package, Etimesgut arrests, Uskudar funeral, health hiring; and finally, missing museum objects. T24 could not be reached.",
-  "date": "Sun, 18 Oct 2026 04:36:20 +0000",
-  "bytes": 8609229,
-  "dur": 717
- },
- {
   "file": "Ankara_Desk_2026-10-19.mp3",
   "title": "Ankara Desk \u2013 Monday 19 October 2026",
   "desc": "A lead on the investment fund crisis and the arrest of journalists; the Halk TV trustee takeover; the New Party and the splintering C-H-P; the Imamoglu trial and the Etimesgut operation; the P-K-K disarmament committee and the DEM Party row with the Palace; Erdogan's week; briefly: Uskudar vote, thirteenth judicial package, Sancaktepe; and finally Istanbul's reservoirs.",
@@ -238,5 +230,13 @@
   "date": "Mon, 16 Nov 2026 02:13:56 +0000",
   "bytes": 8581293,
   "dur": 715
+ },
+ {
+  "file": "Ankara_Desk_2026-11-17.mp3",
+  "title": "Ankara Desk \u2013 Tuesday 17 November 2026",
+  "desc": "Fund scandal: prosecutors seize Balli assets, TMSF trustees for 21 firms, opposition targets AKP deputy's family; Ozel elected unopposed at New Party's first convention; Beyoglu acting mayor quits CHP, council may flip to AKP; Imamoglu trial adjourned to 4 January, secret-witness ruling; Bahceli's 50 points on the peace process; Briefly: accommodation-platform bill, health budget row, Esenyurt and Bakirkoy probes, bianet disinformation probe; And finally: Somali restaurateur returns as trade attache. (T24 and Medyascope unreachable.)",
+  "date": "Tue, 17 Nov 2026 02:13:25 +0000",
+  "bytes": 9420813,
+  "dur": 785
  }
 ]
