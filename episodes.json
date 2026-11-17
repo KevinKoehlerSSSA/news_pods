@@ -1,13 +1,5 @@
 [
  {
-  "file": "Cairo_Desk_2026-10-18.mp3",
-  "title": "Cairo Desk \u2013 Sunday 18 October 2026",
-  "desc": "Running order: Sisi says his term ends in 2030 and the constitution will not be touched, with party reactions and the debate on who may run; Parliament asked to prepare an emergency session on defending Saudi Arabia; the Egypt Forum opens 19 October; Banque du Caire share sale heavily oversubscribed; Briefly: Safaga sailors, al-Maris police shooting, Alexandria death sentences, Central Bank fake job warning; And finally: the seven-thousand-year claim. Sources: Al-Dostor, Al-Shorouk, Enterprise. Al-Ahram, Mada Masr and Al-Masry Al-Youm could not be reached.",
-  "date": "Sun, 18 Oct 2026 02:10:32 +0000",
-  "bytes": 8078157,
-  "dur": 673
- },
- {
   "file": "Cairo_Desk_2026-10-19.mp3",
   "title": "Cairo Desk \u2013 Monday 19 October 2026",
   "desc": "Parliament prepares a vote authorising Egyptian forces to defend Saudi Arabia; Sisi says his term ends in 2030 and a candidate-training plan sparks a constitutional debate; governors lobby MPs over the new local administration law; the Wafd Party heads for internal elections; Brotherhood financial committees trial adjourned; briefly, Mostaqbal Watan in Matrouh and a Senate request on international education. Sources: Al-Shorouk and Al-Dostor; Al-Ahram, Al-Masry Al-Youm and Mada Masr could not be reached.",
@@ -238,5 +230,13 @@
   "date": "Mon, 16 Nov 2026 02:19:47 +0000",
   "bytes": 9957933,
   "dur": 829
+ },
+ {
+  "file": "Cairo_Desk_2026-11-17.mp3",
+  "title": "Cairo Desk \u2013 Tuesday 17 November 2026",
+  "desc": "Private-sector minimum wage raised to 8,500 pounds, plus university pay package after the Egypt Forum; Mada Masr editor Lina Attalah due back in court as closure order stands; Housing minister pressed on social housing prices; Parliament passes electricity law amendments amid bill complaints; Former interior minister Mohamed Ibrahim revisits Rabaa; Briefly: ambulance costs in health committee, Egyptian Social Democratic Party internal elections, Madbouly on AI at WIPO conference, death sentences in Bulaq case; And finally: an MP says the egg market cleans itself. Sources: Al-Shorouk; international and rights-group reporting. Al-Ahram, Al-Dostor and Mada Masr unreachable; Al-Masry Al-Youm blocked.",
+  "date": "Tue, 17 Nov 2026 02:15:59 +0000",
+  "bytes": 8698221,
+  "dur": 724
  }
 ]
