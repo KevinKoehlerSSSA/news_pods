@@ -1,13 +1,5 @@
 [
  {
-  "file": "Ankara_Desk_2026-10-19.mp3",
-  "title": "Ankara Desk \u2013 Monday 19 October 2026",
-  "desc": "A lead on the investment fund crisis and the arrest of journalists; the Halk TV trustee takeover; the New Party and the splintering C-H-P; the Imamoglu trial and the Etimesgut operation; the P-K-K disarmament committee and the DEM Party row with the Palace; Erdogan's week; briefly: Uskudar vote, thirteenth judicial package, Sancaktepe; and finally Istanbul's reservoirs.",
-  "date": "Mon, 19 Oct 2026 02:16:26 +0000",
-  "bytes": 10028781,
-  "dur": 835
- },
- {
   "file": "Ankara_Desk_2026-10-20.mp3",
   "title": "Ankara Desk \u2013 Tuesday 20 October 2026",
   "desc": "Running order: Fund scandal claims officials and Erdogan's response; Journalists jailed over fund coverage and the Sarigul case; Halk TV placed under trustees and rival framings; Esenyurt trustee replaced and new municipal graft probes; Imamoglu ends defence; Parliament plans peace-process monitoring committee and Ozel meets the DEM Party; Briefly: Kuris network, Uskudar by-election, blocked accounts; And finally: Erdogan's return to the parliamentary group.",
@@ -238,5 +230,13 @@
   "date": "Tue, 17 Nov 2026 02:13:25 +0000",
   "bytes": 9420813,
   "dur": 785
+ },
+ {
+  "file": "Ankara_Desk_2026-11-18.mp3",
+  "title": "Ankara Desk \u2013 Wednesday 18 November 2026",
+  "desc": "Police raid the Sozcu media group and a court hands Sozcu TV to a state trustee; the investment fund scandal widens to nearly 500 suspects and 40.4 billion lira recovered; European Court of Human Rights orders Can Atalay's release; Kurtulmus seeks backing for a PKK disarmament monitoring commission as Bahceli sets out 50 points and calls for social media curbs; Ozel's New Party holds its first convention, new ASAL poll, Ozel rebukes Zeydan Karalar; Briefly: \"thieves in the palace\" slogan acquittal, bianet under disinformation probe, Erdogan addresses AKP youth; And finally: who lives in the palace? Sources: Daily Sabah, Hurriyet Daily News, Cumhuriyet, bianet (T24 and Medyascope unreachable).",
+  "date": "Wed, 18 Nov 2026 02:14:05 +0000",
+  "bytes": 9959949,
+  "dur": 829
  }
 ]
