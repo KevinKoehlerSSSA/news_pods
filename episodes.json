@@ -1,13 +1,5 @@
 [
  {
-  "file": "Cairo_Desk_2026-10-22.mp3",
-  "title": "Cairo Desk \u2013 Thursday 22 October 2026",
-  "desc": "Running order: Sisi at the Egypt Forum promises a cash subsidy, piloted in one governorate; Parliament's Saudi defence authorisation vote slips to October 26; Interior minister frames the Muslim Brotherhood as a social media threat; the army-led National Crisis Management Authority; strategic reserve and large-scale farmland remarks; Briefly: rent-to-own housing, lawmaker commentary, patriotism remark; And finally: the ministry watches social media for distress calls. Sources: Al-Dostor and Al-Shorouk; Al-Ahram, Al-Masry Al-Youm and Mada Masr could not be reached.",
-  "date": "Thu, 22 Oct 2026 02:17:37 +0000",
-  "bytes": 8337069,
-  "dur": 694
- },
- {
   "file": "Cairo_Desk_2026-10-23.mp3",
   "title": "Cairo Desk \u2013 Friday 23 October 2026",
   "desc": "Sisi: changing the government would not fix problems; Sisi urges verifying information; Finance Minister on debt and gradual fuel price rises; Interior Ministry monitoring teams for social media appeals; Future of a Nation party fills four secretariats; Briefly: Suez Canal Authority, Egypt Forum praise; And finally: the president's phone remark. Sources: Al-Dostor and Shorouk only; Al-Ahram, Mada Masr and Al-Masry Al-Youm unreachable.",
@@ -238,5 +230,13 @@
   "date": "Fri, 20 Nov 2026 02:16:48 +0000",
   "bytes": 9654957,
   "dur": 804
+ },
+ {
+  "file": "Cairo_Desk_2026-11-21.mp3",
+  "title": "Cairo Desk \u2013 Saturday 21 November 2026",
+  "desc": "State human rights council asks government and parliament for a freedom of information law, as Mada Masr fights its closure and the Matsadaash newsroom stays in detention; Conference Party leadership split goes to the Parties Affairs Committee; National Planning Institute head says the 2030 outlook hinges on structural reform and a unified budget; Salam 98 ferry families turn to an Italian court ruling against RINA; Pro-government TV hosts split over Cairo's opening to Tripoli; Briefly: pharmacist licence renewal rules, Doctors' Syndicate against low-score medical admissions, Alexandria street-clearance campaign; And finally: Gamal Sadat says his father planned to step down. Sources: Al-Shorouk, with UN and press-freedom group reporting; Al-Ahram, Al-Dostor and Mada Masr unreachable; Al-Masry Al-Youm blocked.",
+  "date": "Sat, 21 Nov 2026 02:17:39 +0000",
+  "bytes": 9572301,
+  "dur": 797
  }
 ]
