@@ -1,13 +1,5 @@
 [
  {
-  "file": "Tunis_Desk_2026-10-22.mp3",
-  "title": "Tunis Desk \u2013 Thursday 22 October 2026",
-  "desc": "Running order: Military court jails opposition figure Olfa Hamdi for four years; Zied El-Heni terrorism trial postponed to 27 October; Protester dies in Menzel Bouzelfa after factory dispute; Saied at Council of Ministers on the 2027 finance bill and warnings of blackmail; Budget 2027: 9.8 billion dinars central bank facility; Nawaat investigation on the summer water crisis; Briefly: UGTT Nabeul, Tunis protest route, Ghar al-Dema arrests, sugar and flour supply; And finally: Deputy Ahmed Saidani's dream of a different Tunisia.",
-  "date": "Thu, 22 Oct 2026 02:10:44 +0000",
-  "bytes": 9679725,
-  "dur": 806
- },
- {
   "file": "Tunis_Desk_2026-10-23.mp3",
   "title": "Tunis Desk \u2013 Friday 23 October 2026",
   "desc": "Court of Cassation reportedly upholds sentences in the second conspiracy case, including twenty years for Rached Ghannouchi; deaths after security operations spark unrest in Ettadhamen and Jebiniana; parliament begins the two thousand and twenty-seven budget debate, with central bank borrowing and oil price questions; thousands march in Tunis against repression and impoverishment; Kais Saied on food sovereignty; Briefly: Sfax student strike, the Mohamed Yousfi case, the water crisis; And finally: Tunisian artists leave the country.",
@@ -238,5 +230,13 @@
   "date": "Fri, 20 Nov 2026 02:11:03 +0000",
   "bytes": 10173357,
   "dur": 847
+ },
+ {
+  "file": "Tunis_Desk_2026-11-21.mp3",
+  "title": "Tunis Desk \u2013 Saturday 21 November 2026",
+  "desc": "Sihem Ben Sedrine, Khaled Krichi and Mabrouk Korchid sentenced in Truth and Dignity Commission case; lawyers' national mobilisation over the right of defence; Seifeddine Arfaoui absent from appeal hearing and Abir Moussi's health warning; Kais Saied targets \"failing\" officials and orders review of social grants; 2027 budget in joint plenary and finance committees, central bank denies savings levy; Nawaat: civic coalition protests in Manouba ahead of 17 December; Briefly: young doctors, UGTT fuel strike called off, new prisons chief, Hizb Ettahrir rally dispersed; And finally: an AI ambassador before biometric passports.",
+  "date": "Sat, 21 Nov 2026 02:10:00 +0000",
+  "bytes": 9618669,
+  "dur": 801
  }
 ]
