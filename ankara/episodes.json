@@ -1,13 +1,5 @@
 [
  {
-  "file": "Ankara_Desk_2026-10-22.mp3",
-  "title": "Ankara Desk \u2013 Thursday 22 October 2026",
-  "desc": "Running order: State takeover of opposition channel Halk TV and the rally outside its studios; Prosecutor seeks punishment for Imamoglu in the C-H-P congress case; The opposition split between Kilicdaroglu's C-H-P and Ozel's New Party; The investment fund crisis and the compensation bill; Journalists Ismail Ari and Murat Agirel jailed; Briefly: Bolu mayor sentenced, A-K-P local government reform, I-Y-I Party resignation, Erdogan's constitution call; And finally: the strip of tape in parliament.",
-  "date": "Thu, 22 Oct 2026 02:14:35 +0000",
-  "bytes": 7739469,
-  "dur": 644
- },
- {
   "file": "Ankara_Desk_2026-10-23.mp3",
   "title": "Ankara Desk \u2013 Friday 23 October 2026",
   "desc": "Running order: Kadikoy mayor joins Ozel's New Party as the opposition splits; Halk TV takeover and the row over Ozel's remarks on A Haber; journalist Ismail Ari jailed and the T24 shutdown; parliament passes the investment funds liquidation law; Erdogan's grand consensus call and the local government reform; Briefly: central bank rate cut, Cukurova mayor arrested, Sarigul family probe, Constitutional Court presidency; And finally: Turkey to sue Meta as under-fifteen social media ban nears.",
@@ -238,5 +230,13 @@
   "date": "Fri, 20 Nov 2026 02:13:58 +0000",
   "bytes": 9941229,
   "dur": 828
+ },
+ {
+  "file": "Ankara_Desk_2026-11-21.mp3",
+  "title": "Ankara Desk \u2013 Saturday 21 November 2026",
+  "desc": "Fund scandal widens: prosecutors track assets of 108 people, trustee for Destek Holding, opposition MP Umit Ozlale's allegations against the Albayrak Group and Trade Minister Bolat, Sozcu executives released; nine opposition mayors and acting mayors join the AKP, including Tekirdag; New Party refuses to join peace-process monitoring commission, DEM urges rethink; prosecutors seek to lift Mustafa Sarigul's immunity; Briefly: Ozdag population claim, external debt, AKP attacks Istanbul transport; And finally: Eskisehir pensioners' ironic protest. Sources: Daily Sabah, Hurriyet Daily News, Cumhuriyet, bianet (T24 and Medyascope unreachable).",
+  "date": "Sat, 21 Nov 2026 02:18:42 +0000",
+  "bytes": 9663597,
+  "dur": 805
  }
 ]
