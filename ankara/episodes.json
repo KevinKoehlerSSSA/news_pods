@@ -1,13 +1,5 @@
 [
  {
-  "file": "Ankara_Desk_2026-10-23.mp3",
-  "title": "Ankara Desk \u2013 Friday 23 October 2026",
-  "desc": "Running order: Kadikoy mayor joins Ozel's New Party as the opposition splits; Halk TV takeover and the row over Ozel's remarks on A Haber; journalist Ismail Ari jailed and the T24 shutdown; parliament passes the investment funds liquidation law; Erdogan's grand consensus call and the local government reform; Briefly: central bank rate cut, Cukurova mayor arrested, Sarigul family probe, Constitutional Court presidency; And finally: Turkey to sue Meta as under-fifteen social media ban nears.",
-  "date": "Fri, 23 Oct 2026 02:14:36 +0000",
-  "bytes": 9163053,
-  "dur": 763
- },
- {
   "file": "Ankara_Desk_2026-10-24.mp3",
   "title": "Ankara Desk \u2013 Saturday 24 October 2026",
   "desc": "Opposition split: mayors defect from the C-H-P to Ozgur Ozel's New Party; Halk TV taken over and journalists march against censorship; corruption raids on Cukurova and Milas; investment fund scandal and new law; Imamoglu vehicle trial adjourned; Briefly: M-H-P congress date, Bogazici trial, DEM Party visit; And finally: Azerbaijan warrants over headscarf criticism.",
@@ -238,5 +230,13 @@
   "date": "Sat, 21 Nov 2026 02:18:42 +0000",
   "bytes": 9663597,
   "dur": 805
+ },
+ {
+  "file": "Ankara_Desk_2026-11-22.mp3",
+  "title": "Ankara Desk \u2013 Sunday 22 November 2026",
+  "desc": "Bahceli tells Ozgur Ozel \"you split the CHP but won't divide Turkey\" as the MHP says about 2,800 PKK prisoners could benefit from the framework law; fund scandal: MASAK freezes a 1.95 billion lira share transfer, AKP cites 139 arrests, Felicity Party demands the list; Erdogan pledges faster trials as Bar Association head warns against detention as intimidation; Kilicdaroglu's court-installed CHP leadership reportedly plans to stay through 2029, Yavas clip on Imamoglu ban; Briefly: Tanju Ozcan released but stays jailed, interior minister meets eastern governors in Tunceli, AKP promises pensioners a better year; And finally: the former Antalya mayor, the fund and his ablution. Sources: Daily Sabah, Hurriyet Daily News, Cumhuriyet, bianet (T24 and Medyascope unreachable).",
+  "date": "Sun, 22 Nov 2026 02:14:10 +0000",
+  "bytes": 8672589,
+  "dur": 722
  }
 ]
