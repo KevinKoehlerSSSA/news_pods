@@ -1,13 +1,5 @@
 [
  {
-  "file": "Cairo_Desk_2026-10-23.mp3",
-  "title": "Cairo Desk \u2013 Friday 23 October 2026",
-  "desc": "Sisi: changing the government would not fix problems; Sisi urges verifying information; Finance Minister on debt and gradual fuel price rises; Interior Ministry monitoring teams for social media appeals; Future of a Nation party fills four secretariats; Briefly: Suez Canal Authority, Egypt Forum praise; And finally: the president's phone remark. Sources: Al-Dostor and Shorouk only; Al-Ahram, Mada Masr and Al-Masry Al-Youm unreachable.",
-  "date": "Fri, 23 Oct 2026 02:14:30 +0000",
-  "bytes": 6702381,
-  "dur": 558
- },
- {
   "file": "Cairo_Desk_2026-10-24.mp3",
   "title": "Cairo Desk \u2013 Saturday 24 October 2026",
   "desc": "Running order: Egypt Forum closes as Sisi says recovery from 2011 will take decades; Parliament delays vote on helping defend Saudi Arabia; Government unveils economic transformation programme with growth targets; Central bank governor cites reserves and a five year convertibility goal; Briefly: assault cases, a viral police video, Brotherhood series; And finally: presidential directives for apartment buyers. Sources: Al-Dostor and Al-Shorouk; Al-Ahram, Al-Masry Al-Youm and Mada Masr could not be reached.",
@@ -238,5 +230,13 @@
   "date": "Sat, 21 Nov 2026 02:17:39 +0000",
   "bytes": 9572301,
   "dur": 797
+ },
+ {
+  "file": "Cairo_Desk_2026-11-22.mp3",
+  "title": "Cairo Desk \u2013 Sunday 22 November 2026",
+  "desc": "Government backs ban on imports with local substitutes as business groups cheer; Wafd party elects new executive bureau; Cairo housing official appeals 15-year bribery sentence; Consumer Protection Agency targets hidden online prices; FDI up 47.5 per cent to 18 billion dollars, with caveats; Media minister Diaa Rashwan denies Libya rift reports; Briefly: Edfu feud killing, Al-Ghad citizenship forum, short selling delayed, Egypt Post IBM contract; And finally: Saturday's gold rush. Note: only Al-Shorouk could be reached today; Al-Ahram, Al-Dostor, Mada Masr and Al-Masry Al-Youm were blocked.",
+  "date": "Sun, 22 Nov 2026 02:18:10 +0000",
+  "bytes": 8824653,
+  "dur": 735
  }
 ]
