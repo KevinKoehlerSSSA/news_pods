@@ -1,13 +1,5 @@
 [
  {
-  "file": "Tunis_Desk_2026-10-24.mp3",
-  "title": "Tunis Desk \u2013 Saturday 24 October 2026",
-  "desc": "Running order: Deadly unrest in Sfax region after a police chase in Jbeniana; ISIE and deputy Fatma Mseddi clash over when the ARP mandate ends; Draft 2027 budget, with energy subsidies up and ISIE funding doubled; President Saied on food sovereignty and the olive oil season; Journalist Mohamed Yousfi's detention and Ahmed Nejib Chebbi's message from prison; Briefly: prison deaths, capital market warning, date harvest; And finally: airport taxi fares.",
-  "date": "Sat, 24 Oct 2026 02:09:25 +0000",
-  "bytes": 9455661,
-  "dur": 787
- },
- {
   "file": "Tunis_Desk_2026-10-25.mp3",
   "title": "Tunis Desk \u2013 Sunday 25 October 2026",
   "desc": "Running order: Budget 2027 with a deficit of 14.6 billion dinars and a central bank facility; Parliament opens its new session on Tuesday; Olive oil council and the date sector crisis; Eighteen jailed in a gold laundering case; World Justice Project index shows Tunisia's rule of law decline; Nawaat on deaths and unrest in Manzel Bouzelfa and Jbeniana; Briefly: journalist Mohamed Yousfi detained, prisoners' families guide, UNFT finances, Sonede emergency plan; And finally: airport taxi fares. Sources: La Presse, Assabah, Tunisie Numerique, Business News, Nawaat. Inkyfada had nothing new in the window.",
@@ -238,5 +230,13 @@
   "date": "Sun, 22 Nov 2026 02:11:09 +0000",
   "bytes": 10250829,
   "dur": 854
+ },
+ {
+  "file": "Tunis_Desk_2026-11-23.mp3",
+  "title": "Tunis Desk \u2013 Monday 23 November 2026",
+  "desc": "Summer blackouts: MP Boubaker Yahia demands explanations and an apology as the industry minister promises new capacity, with Nawaat on the information blackout; Moez Joudi and three BTE officials reported in custody over suspected money laundering; Sihem Ben Sedrine sentenced to five more years in a Truth and Dignity Commission case; activist Seifeddine Arfaoui's appeal and civil society mobilisation towards 17 December; UGTT secondary teachers escalate Vie Scolaire boycott; Briefly: judges' retirement age bill, finance bill committee votes, fighters-abroad terrorism verdicts, MP detained in La Marsa, death of Amel Ben Aba; And finally: an ambassador for artificial intelligence?",
+  "date": "Mon, 23 Nov 2026 02:11:00 +0000",
+  "bytes": 9965421,
+  "dur": 830
  }
 ]
