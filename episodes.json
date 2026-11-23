@@ -1,13 +1,5 @@
 [
  {
-  "file": "Cairo_Desk_2026-10-24.mp3",
-  "title": "Cairo Desk \u2013 Saturday 24 October 2026",
-  "desc": "Running order: Egypt Forum closes as Sisi says recovery from 2011 will take decades; Parliament delays vote on helping defend Saudi Arabia; Government unveils economic transformation programme with growth targets; Central bank governor cites reserves and a five year convertibility goal; Briefly: assault cases, a viral police video, Brotherhood series; And finally: presidential directives for apartment buyers. Sources: Al-Dostor and Al-Shorouk; Al-Ahram, Al-Masry Al-Youm and Mada Masr could not be reached.",
-  "date": "Sat, 24 Oct 2026 02:16:07 +0000",
-  "bytes": 8082189,
-  "dur": 673
- },
- {
   "file": "Cairo_Desk_2026-10-25.mp3",
   "title": "Cairo Desk \u2013 Sunday 25 October 2026",
   "desc": "The Egypt Forum closes, with cabinet saying its decisions bind the government from 2027; the forum's debt target and no-new-tax pledge, as reported by a Senate member in Al-Dostour; a rise in the wheat procurement price to 2,650 pounds an ardeb; a six-month window for coded electricity meters and simplified building-violation reconciliation; a parliamentarian calls the forum the second phase of the national dialogue; briefly: pro-government praise, a Brotherhood commentary, tourism financing; and finally, a talk-show host on the 'near-state'.",
@@ -238,5 +230,13 @@
   "date": "Sun, 22 Nov 2026 02:18:10 +0000",
   "bytes": 8824653,
   "dur": 735
+ },
+ {
+  "file": "Cairo_Desk_2026-11-23.mp3",
+  "title": "Cairo Desk \u2013 Monday 23 November 2026",
+  "desc": "Union elections miss legal deadline as Labour Minister seeks one-year transition and amendments to Law 213 of 2017; Pound slides past 54 to the dollar, per TV host relayed by Al-Shorouk; Madbouly orders study of mobile phone prices; Dakahlia governor and Engineers Syndicate on the straightened Sunbulawain building; Judge Mohamed Sherine Fahmy complains to media regulator about Mamdouh Hamza; Financial Regulatory Authority standard consumer finance contract; Briefly: Wafd recount, doctor assignments to continue, Ismailia tutor videos; And finally: Maskan land lottery odds. Sources: Al-Shorouk, Mada Masr feed for background; Al-Ahram, Al-Dostor and Mada Masr site unreachable; Al-Masry Al-Youm blocked.",
+  "date": "Mon, 23 Nov 2026 02:17:34 +0000",
+  "bytes": 9456237,
+  "dur": 787
  }
 ]
