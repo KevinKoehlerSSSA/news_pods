@@ -1,13 +1,5 @@
 [
  {
-  "file": "Cairo_Desk_2026-10-25.mp3",
-  "title": "Cairo Desk \u2013 Sunday 25 October 2026",
-  "desc": "The Egypt Forum closes, with cabinet saying its decisions bind the government from 2027; the forum's debt target and no-new-tax pledge, as reported by a Senate member in Al-Dostour; a rise in the wheat procurement price to 2,650 pounds an ardeb; a six-month window for coded electricity meters and simplified building-violation reconciliation; a parliamentarian calls the forum the second phase of the national dialogue; briefly: pro-government praise, a Brotherhood commentary, tourism financing; and finally, a talk-show host on the 'near-state'.",
-  "date": "Sun, 25 Oct 2026 02:15:32 +0000",
-  "bytes": 6833709,
-  "dur": 569
- },
- {
   "file": "Cairo_Desk_2026-10-26.mp3",
   "title": "Cairo Desk \u2013 Monday 26 October 2026",
   "desc": "Stock exchange halts trading after ten per cent fall and the Cabinet says it is not a crisis; no fuel price rises or power cuts for now, says the government; fifteen thousand pound public sector minimum wage target; Farid Zahran's four economic principles; Al-Ghad, a backbencher and the limits of permitted speech; briefly, party farm machinery, party finance rules, housing buyers and cash subsidies; and finally, poultry self-sufficiency.",
@@ -238,5 +230,13 @@
   "date": "Mon, 23 Nov 2026 02:17:34 +0000",
   "bytes": 9456237,
   "dur": 787
+ },
+ {
+  "file": "Cairo_Desk_2026-11-24.mp3",
+  "title": "Cairo Desk \u2013 Tuesday 24 November 2026",
+  "desc": "Wafd Party freezes its internal election results and orders a full recount; Al-Shorouk column questions Mostaqbal Watan's claim to party pluralism; minimum wage, bread subsidy reform and poultry costs: the cost-of-living arithmetic disputed; Doctors' Syndicate rejects public scolding of medical staff on inspection visits; renewed push for a freedom of information law; presidential initiative to bring southern gold prospectors under state control; Briefly: World Bank policy financing, bread fortification, phone components customs, Talbeya case; And finally: four billion surplus eggs. Sources: Al-Shorouk only; Al-Ahram, Al-Dostour, Mada Masr and Al-Masry Al-Youm unreachable.",
+  "date": "Tue, 24 Nov 2026 02:16:52 +0000",
+  "bytes": 10107981,
+  "dur": 842
  }
 ]
