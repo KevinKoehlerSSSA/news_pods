@@ -1,13 +1,5 @@
 [
  {
-  "file": "Tunis_Desk_2026-10-26.mp3",
-  "title": "Tunis Desk \u2013 Monday 26 October 2026",
-  "desc": "Running order: Deaths in Jebeniana and Manzel Bouzelfa and the silence of the state press; Journalist Mohamed Yousfi detained on a two-post file; Draft budget 2027 and a fourth year of central bank financing; World Justice Project index shows rule of law slipping; Thousands march in Tunis; Bottled water crisis and state failure; Briefly: women's union seizure, Saied in Bizerte, farm workers; And finally: airport taxi fares.",
-  "date": "Mon, 26 Oct 2026 02:11:13 +0000",
-  "bytes": 9696717,
-  "dur": 808
- },
- {
   "file": "Tunis_Desk_2026-10-27.mp3",
   "title": "Tunis Desk \u2013 Tuesday 27 October 2026",
   "desc": "Running order: Parliament opens its new session and the 2027 budget enters committee; Journalist Mohamed Yousfi's detention and the case file; Journalists' union counts thirteen violations in September; Thousands march in Tunis against repression and impoverishment; Jebiniana and Manzel Bouzelfa unrest; Briefly: transitional justice trials postponed, El Menzel oilfield transfer, olive oil season; And finally: airport taxi fares.",
@@ -238,5 +230,13 @@
   "date": "Tue, 24 Nov 2026 02:15:59 +0000",
   "bytes": 9783405,
   "dur": 815
+ },
+ {
+  "file": "Tunis_Desk_2026-11-25.mp3",
+  "title": "Tunis Desk \u2013 Wednesday 25 November 2026",
+  "desc": "27 MPs reject the 2027 finance bill as Nawaat dissects a 14.6 billion dinar deficit and new central bank financing; Abir Moussi begins a 16-day hunger strike in prison; economist Moez Joudi held under anti-terror and money-laundering laws; UGTT says it was sidelined from Transtu and SNTRI reform; MPs question the provisional judicial council while Nawaat challenges the justice minister on prisons; Briefly: detention warrants for MP Tarak Mahdi, one-year sentence for activist Wael Zarrouk, community companies; And finally: the biodegradable bag levy nobody can verify.",
+  "date": "Wed, 25 Nov 2026 02:10:54 +0000",
+  "bytes": 9760077,
+  "dur": 813
  }
 ]
