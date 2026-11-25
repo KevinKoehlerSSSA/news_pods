@@ -1,13 +1,5 @@
 [
  {
-  "file": "Ankara_Desk_2026-10-26.mp3",
-  "title": "Ankara Desk \u2013 Monday 26 October 2026",
-  "desc": "Fund fraud probe reaches former Erdogan adviser Ertan Aydin; C-H-P and Yeni Parti feud over five million lira; early election arithmetic and the question of another term; Mecca defence pact bill reaches committee; press freedom march after the Halk TV takeover; briefly: Oktay Saral reportedly dismissed, mayors switching parties, Istanbul Bar election; and finally, five new museums at Topkapi.",
-  "date": "Mon, 26 Oct 2026 02:14:44 +0000",
-  "bytes": 9354285,
-  "dur": 779
- },
- {
   "file": "Ankara_Desk_2026-10-27.mp3",
   "title": "Ankara Desk \u2013 Tuesday 27 October 2026",
   "desc": "Running order: Money-laundering probe reaches the family of New Party lawmaker Mustafa Sarigul, and an A-K-P official is briefly detained; C-H-P and New Party fight over party funds and offices; the investment-fund scandal and the new liquidation law; Erdogan on press freedom, the budget and the street; presidential adviser Oktay Saral resigns over Azerbaijan; Briefly: Mecca Defence Alliance bill, Milas mayor suspended, Istanbul Bar election, students jailed over a banner, PKK integration and I-S-I-L probe; And finally: renewables and car sales. T24 could not be reached.",
@@ -238,5 +230,13 @@
   "date": "Tue, 24 Nov 2026 02:13:30 +0000",
   "bytes": 9603981,
   "dur": 800
+ },
+ {
+  "file": "Ankara_Desk_2026-11-25.mp3",
+  "title": "Ankara Desk \u2013 Wednesday 25 November 2026",
+  "desc": "Former minister Fatma Betul Sayan Kaya released to house arrest and A-K-P deputy chair Hayati Yazici resigns as the investment fund scandal widens; Ozgur Ozel answers Erdogan's \"fascism\" charge in parliament; Erdogan and Bahceli press for consensus on the peace process as the New Party boycotts the monitoring commission and Ocalan warns of provocations; governors reshuffled in 41 provinces; bribery probe at Istanbul's Kartal municipality; Briefly: Beyoglu bans 25 November march, alimony limits, new social democratic \"Platform\", death of Hikmet Cetin; And finally: Ozel and the Sariyer lion. Sources: Daily Sabah, Hurriyet Daily News, Cumhuriyet, bianet (T24 and Medyascope unreachable).",
+  "date": "Wed, 25 Nov 2026 02:13:46 +0000",
+  "bytes": 8642637,
+  "dur": 720
  }
 ]
