@@ -1,13 +1,5 @@
 [
  {
-  "file": "Ankara_Desk_2026-10-27.mp3",
-  "title": "Ankara Desk \u2013 Tuesday 27 October 2026",
-  "desc": "Running order: Money-laundering probe reaches the family of New Party lawmaker Mustafa Sarigul, and an A-K-P official is briefly detained; C-H-P and New Party fight over party funds and offices; the investment-fund scandal and the new liquidation law; Erdogan on press freedom, the budget and the street; presidential adviser Oktay Saral resigns over Azerbaijan; Briefly: Mecca Defence Alliance bill, Milas mayor suspended, Istanbul Bar election, students jailed over a banner, PKK integration and I-S-I-L probe; And finally: renewables and car sales. T24 could not be reached.",
-  "date": "Tue, 27 Oct 2026 02:12:28 +0000",
-  "bytes": 8867277,
-  "dur": 738
- },
- {
   "file": "Ankara_Desk_2026-10-28.mp3",
   "title": "Ankara Desk \u2013 Wednesday 28 October 2026",
   "desc": "Four more Istanbul municipalities join Ozgur Ozel's YENI Parti; police detain dozens in Bakirkoy and Merkezefendi; Mecca defence pact clears committee; budget debate opens under the fund scandal; court acquits 120 Sarachane protesters; journalists detained and Halk TV account blocked; Briefly: Erdogan-Bahceli meeting, Daltons raids, LGBTI detentions; And finally: a Tirebolu resignation.",
@@ -238,5 +230,13 @@
   "date": "Wed, 25 Nov 2026 02:13:46 +0000",
   "bytes": 8642637,
   "dur": 720
+ },
+ {
+  "file": "Ankara_Desk_2026-11-26.mp3",
+  "title": "Ankara Desk \u2013 Thursday 26 November 2026",
+  "desc": "Second A-K-P deputy chair Hayati Yazici resigns as the investment fund scandal widens; Council of State makes annulment of Ekrem Imamoglu's diploma final; Erdogan attacks Ozgur Ozel over boycott of peace-process monitoring commission, DEM delegation meets justice minister; New Party names new leadership; Erdogan reshuffles 41 governors, 957 judges and prosecutors reassigned; Speaker Kurtulmus calls for limits on parliamentary immunity; Briefly: 25 November women's marches defy bans, Eskisehir helicopter crash, toll and Eurasia Tunnel rows; And finally: the gang caught via a German TV interview. Sources: Daily Sabah, Hurriyet Daily News, Cumhuriyet, bianet (T24 and Medyascope unreachable).",
+  "date": "Thu, 26 Nov 2026 02:14:20 +0000",
+  "bytes": 10171053,
+  "dur": 847
  }
 ]
