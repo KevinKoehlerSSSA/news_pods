@@ -1,13 +1,5 @@
 [
  {
-  "file": "Tunis_Desk_2026-10-27.mp3",
-  "title": "Tunis Desk \u2013 Tuesday 27 October 2026",
-  "desc": "Running order: Parliament opens its new session and the 2027 budget enters committee; Journalist Mohamed Yousfi's detention and the case file; Journalists' union counts thirteen violations in September; Thousands march in Tunis against repression and impoverishment; Jebiniana and Manzel Bouzelfa unrest; Briefly: transitional justice trials postponed, El Menzel oilfield transfer, olive oil season; And finally: airport taxi fares.",
-  "date": "Tue, 27 Oct 2026 02:09:22 +0000",
-  "bytes": 7653933,
-  "dur": 637
- },
- {
   "file": "Tunis_Desk_2026-10-28.mp3",
   "title": "Tunis Desk \u2013 Wednesday 28 October 2026",
   "desc": "Running order: Zied El-Heni jailed for four years in the leaked recordings case; Elyes Chaouachi sentenced again in absentia; Kais Saied tells cabinet the war on corruption continues; the 2027 budget assumptions and Maher Ketari's critique; the U-G-T-T defends the bankrupt women's union UNFT; Briefly: Manzel Bouzelfa protest death, medicine shortages, prime minister in Russia; And finally: airport taxi fares and a paywall.",
@@ -238,5 +230,13 @@
   "date": "Wed, 25 Nov 2026 02:10:54 +0000",
   "bytes": 9760077,
   "dur": 813
+ },
+ {
+  "file": "Tunis_Desk_2026-11-26.mp3",
+  "title": "Tunis Desk \u2013 Thursday 26 November 2026",
+  "desc": "Electoral commission chief Farouk Bouasker clashes with MPs over protocol and immunity, and sets legislative elections for November-December 2027; Justice Minister Leila Jaffel's row with deputies widens as immunity requests multiply, with Nawaat on prison conditions; Finance committees approve the 2027 finance bill as Nawaat attacks central-bank financing; Ridha Belhaj writes from prison, blogger Moez Hadj Mansour jailed, bar association warns on judicial independence; National Council of Regions and Districts members say it has no powers; Briefly: families of Tunisians in the Russian army, external debt, olive harvest; And finally: a metro line to Tunis-Carthage airport. Sources: Business News, Tunisie Numerique, Assabah News, Nawaat, Inkyfada, La Presse.",
+  "date": "Thu, 26 Nov 2026 02:10:33 +0000",
+  "bytes": 10294029,
+  "dur": 857
  }
 ]
