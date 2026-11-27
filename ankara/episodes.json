@@ -1,13 +1,5 @@
 [
  {
-  "file": "Ankara_Desk_2026-10-28.mp3",
-  "title": "Ankara Desk \u2013 Wednesday 28 October 2026",
-  "desc": "Four more Istanbul municipalities join Ozgur Ozel's YENI Parti; police detain dozens in Bakirkoy and Merkezefendi; Mecca defence pact clears committee; budget debate opens under the fund scandal; court acquits 120 Sarachane protesters; journalists detained and Halk TV account blocked; Briefly: Erdogan-Bahceli meeting, Daltons raids, LGBTI detentions; And finally: a Tirebolu resignation.",
-  "date": "Wed, 28 Oct 2026 02:15:13 +0000",
-  "bytes": 8918253,
-  "dur": 743
- },
- {
   "file": "Ankara_Desk_2026-10-29.mp3",
   "title": "Ankara Desk \u2013 Thursday 29 October 2026",
   "desc": "Running order: Opposition realignment as the New Party under Ozgur Ozel prepares its founding congress and Istanbul mayors defect; Prosecutions of mayors in Denizli and Bakirkoy and the Sarigul money-laundering case; The investment fund scandal and R-T-U-K fines; The Mecca defence pact and the Yemen troop debate; Jailed students, Sozcu editors detained and the Halk TV takeover; Briefly: Yavas meets Kurum, Izmir mayor joins the A-K-P, the peace process, the anti-L-G-B-T-I crackdown; And finally: Republic Day messages. T24 could not be reached.",
@@ -238,5 +230,13 @@
   "date": "Thu, 26 Nov 2026 02:14:20 +0000",
   "bytes": 10171053,
   "dur": 847
+ },
+ {
+  "file": "Ankara_Desk_2026-11-27.mp3",
+  "title": "Ankara Desk \u2013 Friday 27 November 2026",
+  "desc": "Government goes on the offensive over the investment fund scandal as the opposition alleges a cover-up; Constitutional Court and Council of State rule against Ekrem Imamoglu on detention and diploma; Vice President says 2028 election could come one or two months early, Erdogan to run again; National Security Council meets and a row over parliament's peace process monitoring commission; Briefly: Izmir and Ankara water bill politics, budget talks, alimony plans and women's march, electronic voting abroad; And finally: orphaned bear cubs near Ankara. Sources: Daily Sabah, Hurriyet Daily News, Cumhuriyet, bianet (T24 and Medyascope unreachable).",
+  "date": "Fri, 27 Nov 2026 02:14:39 +0000",
+  "bytes": 9191565,
+  "dur": 765
  }
 ]
