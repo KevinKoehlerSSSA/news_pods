@@ -1,13 +1,5 @@
 [
  {
-  "file": "Tunis_Desk_2026-10-29.mp3",
-  "title": "Tunis Desk \u2013 Thursday 29 October 2026",
-  "desc": "Running order: Zied El Heni jailed for four years in the leaked recordings case, with Ennahdha figures given up to twenty-five years; Nawaat on the state of public media since July twenty-fifth; the two thousand and twenty-seven draft budget, wage bill and Central Bank financing; Sidi Bouzid graduates protest over Law Eighteen, and U-G-T-T announces new protests; Briefly: Moscow visit, olive oil forecast, drug shortages; And finally: a film on our silence.",
-  "date": "Thu, 29 Oct 2026 02:09:14 +0000",
-  "bytes": 9296109,
-  "dur": 774
- },
- {
   "file": "Tunis_Desk_2026-10-30.mp3",
   "title": "Tunis Desk \u2013 Friday 30 October 2026",
   "desc": "Journalist Zied El-Heni sentenced to four years on terrorism charges; the draft 2027 budget, with its eighty-dollar oil assumption and public hiring plans, meets scepticism; Nawaat on the state of public media since 2021; eleven women farm workers hurt in Jendouba; briefly: the official gazette, community companies, the Africa-Russia summit and Inkyfada on prisons; and finally, the price of mutton in Sfax. Assabah could not be reached.",
@@ -238,5 +230,13 @@
   "date": "Fri, 27 Nov 2026 02:15:22 +0000",
   "bytes": 9815373,
   "dur": 817
+ },
+ {
+  "file": "Tunis_Desk_2026-11-28.mp3",
+  "title": "Tunis Desk \u2013 Saturday 28 November 2026",
+  "desc": "2027 finance bill heads to joint plenary on Monday as 27 deputies threaten to stay away and solar tax breaks are struck out; human rights league says thirty prisoners died in the summer heat, contradicting the justice minister, and Ayachi Hammami's family denounces his detention conditions; budget hearings air questions on the provisional judicial council and a speaker-versus-ISIE protocol row, with legislative elections expected late 2027; families of Tunisians recruited by Russia say the state is silent (Inkyfada); state-enterprise losses and the public pension deficit; Briefly: Maher Chaabane reportedly sentenced to 25 years, central bank holds at 7%; And finally: Chim\u00e8ne Badi's Tunis concert cancelled after boycott calls. Sources: Business News, Tunisie Num\u00e9rique, Assabah News, Nawaat, Inkyfada; La Presse unreachable (HTTP 503).",
+  "date": "Sat, 28 Nov 2026 02:14:08 +0000",
+  "bytes": 9827757,
+  "dur": 818
  }
 ]
