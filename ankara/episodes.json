@@ -1,13 +1,5 @@
 [
  {
-  "file": "Ankara_Desk_2026-10-29.mp3",
-  "title": "Ankara Desk \u2013 Thursday 29 October 2026",
-  "desc": "Running order: Opposition realignment as the New Party under Ozgur Ozel prepares its founding congress and Istanbul mayors defect; Prosecutions of mayors in Denizli and Bakirkoy and the Sarigul money-laundering case; The investment fund scandal and R-T-U-K fines; The Mecca defence pact and the Yemen troop debate; Jailed students, Sozcu editors detained and the Halk TV takeover; Briefly: Yavas meets Kurum, Izmir mayor joins the A-K-P, the peace process, the anti-L-G-B-T-I crackdown; And finally: Republic Day messages. T24 could not be reached.",
-  "date": "Thu, 29 Oct 2026 02:14:22 +0000",
-  "bytes": 8217837,
-  "dur": 684
- },
- {
   "file": "Ankara_Desk_2026-10-30.mp3",
   "title": "Ankara Desk \u2013 Friday 30 October 2026",
   "desc": "Dedetas released after ninety days under house arrest; Ozer joins the New Party as the opposition split deepens; the opposition's fund crisis allegation and its thin sourcing; Halk TV takeover and press freedom; Erdogan's grand consensus and constitution call; Briefly: alimony reform, Court of Accounts, students jailed, mayors switching; And finally: a holiday invitation.",
@@ -238,5 +230,13 @@
   "date": "Fri, 27 Nov 2026 02:14:39 +0000",
   "bytes": 9191565,
   "dur": 765
+ },
+ {
+  "file": "Ankara_Desk_2026-11-28.mp3",
+  "title": "Ankara Desk \u2013 Saturday 28 November 2026",
+  "desc": "Government declares emergency phase of the investment fund scandal over as indictments are drafted and the opposition alleges a cover-up; journalists Saban Sevinc and Mustafa Balci freed after 49 days, one convicted under the disinformation law; new probe targets Halk TV anchors; top courts rule against Imamoglu as Ozgur Ozel promises a candidate announcement; defections hit the opposition in Istanbul and Antalya; ruling camp floats elections a few weeks early in 2028; Briefly: 2027 budget clears committee, survey shows waning confidence in the Kurdish peace process, Kartal municipality arrests; And finally: an \"Apo\" heckle at the M-H-P in Trabzon.",
+  "date": "Sat, 28 Nov 2026 02:14:24 +0000",
+  "bytes": 9833229,
+  "dur": 819
  }
 ]
